@@ -30,6 +30,24 @@ Dentro de la carpeta FERNANbnb
 
 [![Captura-de-pantalla-2023-01-29-193707.png](https://i.postimg.cc/X7sMCdvD/Captura-de-pantalla-2023-01-29-193707.png)](https://postimg.cc/8jfn8FMh)
 
+## Datos de usuarios y propietarios
+
+Usuario 1:
+Email: usuario1fernanbnb@gmail.com
+Contraseña: L&aVz0OSEPk
+
+Usuario 2:
+Email: usuariojosemifernanbnb@gmail.com
+Contraseña: XPpUZzAgFe
+
+Propietario 1:
+Email: propietario1fernanbnb@gmail.com
+Contraseña: Em0oOpesVPllx
+
+Propietario 2:
+Email: propietariasarafernanbnb@gmail.com
+Contraseña: Lq073SnbFDH6
+
 ## Ejecutando el programa ⚙️
 Una vez ejecutado el archivo FERNANbnb.bat se abrirá la consola con el programa.
 
@@ -103,7 +121,7 @@ Si deseamos registrar un usuario nos pide: email, contraseña, nombre, apellidos
 
 [![Captura-de-pantalla-2023-01-29-171438.png](https://i.postimg.cc/pdt65Ny2/Captura-de-pantalla-2023-01-29-171438.png)](https://postimg.cc/qNjLW58Y)
 
-Para verificar la cuenta puedes acceder a su correo electrónico que hayas introducido o al nuestro que hemos proporcionado (con contraseña: XPpUZzAgFe). Una vez dentro de la cuenta de gmail ponemos ver el siguiente email suministrador por el mensajerofernanbnb
+Para verificar la cuenta puedes acceder a su correo electrónico que hayas introducido o al nuestro que hemos proporcionado. Una vez dentro de la cuenta de gmail ponemos ver el siguiente email suministrador por el mensajerofernanbnb
 
 [![Captura-de-pantalla-2023-01-29-171914.png](https://i.postimg.cc/85PgqcFY/Captura-de-pantalla-2023-01-29-171914.png)](https://postimg.cc/VSThtYW9)
 
